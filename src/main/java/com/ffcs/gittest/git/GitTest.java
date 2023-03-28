@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master第二次提交");
         System.out.println("dev第一次提交");
         System.out.println("master第三次提交");
+        System.out.println("github本地修改");
     }
 }
